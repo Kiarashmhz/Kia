@@ -12,5 +12,6 @@ for ($c=$a;$c>=1;$c--){
 }
 echo "Factorial of $a is $b";
 echo 'by';
+echo 'k';
 ?>
 
